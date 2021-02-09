@@ -82,12 +82,12 @@
 # Add source files
 !/scripts/
 !/src/
-!/src/Informedica.Build.Template/
-!/src/Informedica.Build.Template/Scripts/
+!/src/Informedica.ThrowAwayDb.Lib/
+!/src/Informedica.ThrowAwayDb.Lib/Scripts/
 
 # Add test files
 !/tests/
-!/tests/Informedica.Build.Template.Tests/
+!/tests/Informedica.ThrowAwayDb.Lib.Tests/
 
 # Add documentation tools 
 !/docsTool/
