@@ -21,10 +21,10 @@
       ]
     },
     "paket": {
-      "version": "6.0.0-beta8",
-      "commands": [
-        "paket"
-      ]
+        "version": "6.0.0-beta8",
+        "commands": [
+            "paket"
+        ]
     },
     "fcswatch-cli": {
       "version": "0.7.14",

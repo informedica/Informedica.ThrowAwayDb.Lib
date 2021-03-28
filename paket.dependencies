@@ -1,3 +1,4 @@
+version 6.0.0-beta8
 source https://www.nuget.org/api/v2
 source https://api.nuget.org/v3/index.json
 storage: none
@@ -7,6 +8,8 @@ nuget Expecto 9.0.2
 nuget YoloDev.Expecto.TestSdk 0.9.2
 nuget Microsoft.NET.Test.Sdk 16.8.0
 nuget altcover ~> 7
+nuget Microsoft.Data.SqlClient
+nuget Informedica.Utils.Lib
 
 // [ FAKE GROUP ]
 group Build

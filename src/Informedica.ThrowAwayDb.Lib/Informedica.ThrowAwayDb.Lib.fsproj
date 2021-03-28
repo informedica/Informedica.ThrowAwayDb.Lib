@@ -14,8 +14,11 @@
     
   </PropertyGroup>
   <ItemGroup>
+    <None Include="paket.references" />
     <Compile Include="AssemblyInfo.fs" />
-    <Compile Include="Library.fs" />
+    <Compile Include="Utils.fs" />
+    <Compile Include="ThrowAwayDatabase.fs" />
+    <None Include="Scripts\ThrowAwayDb.fsx" />
   </ItemGroup>
   <Import Project="..\..\.paket\Paket.Restore.targets" />
 </Project>
